@@ -2,114 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c26fb347-b2ef-42bf-82f4-884887c90b63" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonExerciciosCV.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios_Praticos/ex081/pratica001_listas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios_Praticos/ex081/pratica002_listas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios_Praticos/ex082/pratica001_listas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios_Praticos/ex082/pratica002_listas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios_Praticos/ex083/pratica001_pilhas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios_Praticos/ex083/pratica002_pilhas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios_Praticos/ex084/Pratica001_84.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex013a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex021.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex034.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex035.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex077.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex078.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex079.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex080.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex081.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex082.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex083.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex084.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex085.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex086.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex087.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex088.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex089.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex090.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex091.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex092.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex093.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex093.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex093.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,6 +21,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Meriellyssn"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Meriellyssn/PythonExerciciosCVideo.git",
+    "accountId": "cc134879-236c-42d4-87c9-03bcd33dc500"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -250,10 +156,11 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Meirielly/PycharmProjects/PythonExerciciosCV",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "editor.preferences.completion.popup",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -270,7 +177,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+        <option value="bundled-python-sdk-245168a56dbd-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.25134.203" />
       </set>
     </attachedChunks>
   </component>
