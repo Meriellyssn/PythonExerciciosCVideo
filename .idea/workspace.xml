@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c26fb347-b2ef-42bf-82f4-884887c90b63" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ex094.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex093.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex093.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,6 +148,7 @@
     "Python.ex091.executor": "Run",
     "Python.ex092.executor": "Run",
     "Python.ex093.executor": "Run",
+    "Python.ex094.executor": "Run",
     "Python.pratica001_pilhas.executor": "Run",
     "Python.pratica002_listas.executor": "Run",
     "Python.teste.executor": "Run",
@@ -230,6 +231,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
