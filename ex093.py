@@ -5,9 +5,9 @@ será guardado em um dicionário, incluindo o total de gols feitos durante o
 campeonato.''')
 #Estraindo Informações:
 '''1 etapa: ler o nome do jogador e quantas partidas ele jogou.--- OK
-etapa 2: ler a quantidade de gols feitos em cada partida. -- 
-3: guardar todos os dados em um dicionário.
-4:incluindo o total de gols.
+etapa 2: ler a quantidade de gols feitos em cada partida. -- OK
+3: guardar todos os dados em um dicionário. -- OK
+4:incluindo o total de gols. -- OK
 '''
 
 print('-=' * 20)
