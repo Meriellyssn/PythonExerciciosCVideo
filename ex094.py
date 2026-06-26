@@ -13,9 +13,11 @@ while True:
     pessoa = dict()
     pessoa['nome'] = str(input('Nome: ')).strip().upper()
     pessoa['sexo'] = str(input('Sexo: [M/F] ')).strip().upper()[0]
+
     while pessoa['sexo'] not in 'MF':
         print('Erro!: Por favor, digite apenas M ou F.')
         pessoa['sexo'] = str(input('Sexo: [M/F] ')).strip().upper()[0]
+
     pessoa['idade'] = int(input('Idade: '))
     soma += pessoa['idade']
 
@@ -45,7 +47,6 @@ print()
 print('- Lista de pessoas que estão acima da média:')
 for pessoa in galera:
     if pessoa['idade'] > media:
-        print(f'  Nome = {pessoa["nome"]}; sexo = {pessoa["sexo"]}; idade = {pessoa["idade"]};')
-    else:
-        print('  Sem média')
+        print(f'  Nome = {pessoa["nome"]}; sexo = {pessoa["sexo"]}; idade = {pessoa["idade"]}.')
+
 print('-=' * 3, 'Fim do Programa', '-=' * 3)
