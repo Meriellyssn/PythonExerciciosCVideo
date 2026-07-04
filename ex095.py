@@ -1,30 +1,50 @@
+
+time = list()
 jogador = dict()
 partidas = list()
 
 while True:
+    jogador.clear()
     jogador['nome'] = str(input('Nome do jogador: ')).strip().upper()
     total_partidas = int(input(f'Quantas partidas {jogador["nome"]} jogou? '))
 
+    partidas.clear()
     for part in range(total_partidas):
         partidas.append(int(input(f' - Quantos gols na partida {part + 1}: ')))
-
-    while True:
-        resp = str(input('Quer continuar? [S/N] ')).upper()[0]
-        if resp in 'S':
-            break
-        print('Erro! Digite apenas S ou N.')
-        if resp == 'N':
-            break
     jogador['gols'] = partidas[:]
     jogador['total'] = sum(partidas)
+    time.append(jogador.copy())
+    while True:
+        resp = str(input('Quer continuar? [S/N] ')).upper()[0]
+        if resp in 'SN':
+            break
+        print('Erro! Digite apenas S ou N.')
+    if resp == 'N':
+        break
+
 
 print('-=' * 20)
-print(jogador)
+print('Cod ', end='')
+for i in jogador.keys():
+    print(f'{i:<15}', end='')
+print()
+print('--' * 20)
+for chave, valor in enumerate(time):
+    print(f'{chave:>3} ', end='')
+    for dado in valor.values():
+        print(f'{str(dado):<15}', end='')
+    print()
 print('-=' * 20)
-for chave, valor in jogador.items():
-    print(f'O {chave} tem o valor: {valor}')
-print('-=' * 20)
-print(f'O jogador {jogador["nome"]} jogou {len(partidas)} partidas.')
-for chave, valor in enumerate(partidas):
-    print(f'  => Na partida {chave + 1}, fez {valor} gols.')
-print(f'Foi um total de {jogador["total"]} gols.')
+
+while True:
+    busca = int(input('Mostrar dados de qual jogador? (999 encerra...): '))
+    if busca == 999:
+        break
+    if busca >= len(time):
+        print(f'ERRO! Não existe jogador com código {busca}!')
+    else:
+        print(f'-- LEVANTAMENTO DO JOGADOR >> {time[busca]["nome"]}:')
+        for i, g in enumerate(time[busca]["gols"]):
+            print(f'  No jogo {i + 1}, fez {g} gols.')
+    print('-=' * 20)
+print('--- Volte Sempre ---')
