@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c26fb347-b2ef-42bf-82f4-884887c90b63" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex094.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex095.py" afterDir="false" />
+    <list default="true" id="c26fb347-b2ef-42bf-82f4-884887c90b63" name="Changes" comment="Resolução do Exercício 104 - Função validando entrada de dados em Python">
+      <change afterPath="$PROJECT_DIR$/ex105.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex094.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex094.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex099.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex099.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +20,14 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -52,6 +58,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Desafio_01.executor": "Run",
     "Python.Pratica001_84.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
@@ -153,6 +160,18 @@
     "Python.ex094.1.executor": "Run",
     "Python.ex094.executor": "Run",
     "Python.ex095.executor": "Run",
+    "Python.ex096.1.executor": "Run",
+    "Python.ex096.executor": "Run",
+    "Python.ex097.executor": "Run",
+    "Python.ex098.executor": "Run",
+    "Python.ex099.executor": "Run",
+    "Python.ex100.executor": "Run",
+    "Python.ex101.executor": "Run",
+    "Python.ex102.executor": "Run",
+    "Python.ex103.executor": "Run",
+    "Python.ex104.executor": "Run",
+    "Python.ex105.executor": "Run",
+    "Python.pratica001.executor": "Run",
     "Python.pratica001_pilhas.executor": "Run",
     "Python.pratica002_listas.executor": "Run",
     "Python.teste.executor": "Run",
@@ -174,6 +193,7 @@
       <recent name="C:\Users\Meirielly\PycharmProjects\PythonExerciciosCV" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Meirielly\PycharmProjects\Estudos_Python\PythonExerciciosCVideo" />
       <recent name="C:\Users\Meirielly\PycharmProjects\PythonExerciciosCV" />
       <recent name="C:\Users\Meirielly\PycharmProjects\PythonExerciciosCV\Exercicios_Praticos\ex082" />
       <recent name="C:\Users\Meirielly\PycharmProjects\PythonExerciciosCV\Exercicios_Praticos\ex081" />
@@ -231,6 +251,111 @@
       <workItem from="1776806960855" duration="115000" />
       <workItem from="1776811328313" duration="709000" />
     </task>
+    <task id="LOCAL-00001" summary="Atividade pratica com for.">
+      <option name="closed" value="true" />
+      <created>1783181994715</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1783181994717</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Exercício 095 - Função que calcula a área.">
+      <option name="closed" value="true" />
+      <created>1783182171992</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1783182171992</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Exercício 096 - Função que calcula a área.">
+      <option name="closed" value="true" />
+      <created>1783182769041</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1783182769041</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Exercício 096 - Função que calcula a área.">
+      <option name="closed" value="true" />
+      <created>1783182779635</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1783182779635</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Exercício 097 - Função Um print especial.&#10;função personalizada que formata a exibição de textos no terminal de forma dinâmica, adaptando o tamanho dos elementos visuais (linhas e bordas) exatamente ao comprimento da mensagem recebida.">
+      <option name="closed" value="true" />
+      <created>1783182903737</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1783182903737</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Exercício 097 - Função de Contador">
+      <option name="closed" value="true" />
+      <created>1783183013667</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1783183013667</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Exercício 097 - Função que descobre o maior.">
+      <option name="closed" value="true" />
+      <created>1783183062365</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1783183062365</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Exercício 100 - Função que descobre o maior.">
+      <option name="closed" value="true" />
+      <created>1783183144385</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1783183144385</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Atualização de Exercicio - 091">
+      <option name="closed" value="true" />
+      <created>1783466665784</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1783466665784</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Resolução do Exercício 101 - Funções para votação">
+      <option name="closed" value="true" />
+      <created>1783466741576</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1783466741576</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Resolução do Exercício 102 - Funções para Fatorial">
+      <option name="closed" value="true" />
+      <created>1783550704510</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1783550704510</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Resolução do Exercício 103 - Função ficha do jogador">
+      <option name="closed" value="true" />
+      <created>1783633415291</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1783633415291</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Resolução do Exercício 104 - Função validando entrada de dados em Python">
+      <option name="closed" value="true" />
+      <created>1783638460693</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1783638460693</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,6 +371,23 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Atividade pratica com for." />
+    <MESSAGE value="Exercício 095 - Função que calcula a área." />
+    <MESSAGE value="Exercício 095 - Aprimorando os Dicionários" />
+    <MESSAGE value="Exercício 096 - Função que calcula a área." />
+    <MESSAGE value="Exercício 097 - Função Um print especial.&#10;função personalizada que formata a exibição de textos no terminal de forma dinâmica, adaptando o tamanho dos elementos visuais (linhas e bordas) exatamente ao comprimento da mensagem recebida." />
+    <MESSAGE value="Exercício 097 - Função de Contador" />
+    <MESSAGE value="Exercício 097 - Função que descobre o maior." />
+    <MESSAGE value="Exercício 099 - Função que descobre o maior." />
+    <MESSAGE value="Exercício 100 - Função que descobre o maior." />
+    <MESSAGE value="Atualização de Exercicio - 091" />
+    <MESSAGE value="Resolução do Exercício 101 - Funções para votação" />
+    <MESSAGE value="Resolução do Exercício 102 - Funções para Fatorial" />
+    <MESSAGE value="Resolução do Exercício 103 - Função ficha do jogador" />
+    <MESSAGE value="Resolução do Exercício 104 - Função validando entrada de dados em Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolução do Exercício 104 - Função validando entrada de dados em Python" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

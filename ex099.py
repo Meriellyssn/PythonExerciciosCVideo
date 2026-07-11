@@ -16,6 +16,7 @@ def maior(* num):
             if valor > maior:
                 maior = valor
         cont += 1
+    
     print()
     print(f'Forma informados {cont} valores.')
     print(f'O maior valor informado foi >> {maior}.', flush=True)
